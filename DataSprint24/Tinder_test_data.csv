@@ -1,0 +1,633 @@
+,ID,Segment type,Segment Description,Answer,Count,Percentage
+0,292974.2311,university,"University of California, Davis",Yes,0.230742335,0.11537116800000001
+1,292889.7996,web,"Meridian, Idaho",No,0.0,0.0
+2,293724.035,university,"Westport, CT",Yes,0.0,0.0
+3,292884.0724,mobile,"Meridian, Idaho",No,1497.699982,0.38875153100000004
+4,292882.0964,mobile,"Meridian, Idaho",No,1439.4649880000002,0.373646208
+5,292971.0,university,San Diego State University,Yes,5.0,0.192
+6,292891.2952,mobile,"Meridian, Idaho",No,795.5120335,0.349878095
+7,293256.7684,university,UMass Amherst,I don't use Tinder,2.961399348,0.264475244
+8,292895.4703,gender,"Meridian, Idaho",No,901.7250518,0.404485365
+9,292887.7945,web,"Meridian, Idaho",No,0.0,0.0
+10,292887.8061,web,"Meridian, Idaho",No,0.0,0.0
+11,292893.6454,mobile,"Meridian, Idaho",No,795.172358,0.38249455299999996
+12,292894.6233,gender,"Meridian, Idaho",No,432.22887280000003,0.208941722
+13,292884.7246,mobile,"Meridian, Idaho",No,1211.021997,0.31439137100000003
+14,292898.4442,gender,"Meridian, Idaho",No,495.9545433,0.268530987
+15,292895.0521,gender,"Meridian, Idaho",No,1168.741281,0.527643713
+16,292888.5162,web,"Meridian, Idaho",No,0.0,0.0
+17,293661.2035,university,"Westport, CT",Yes,2.98304465,0.41981263799999996
+18,292895.0791,mobile,"Meridian, Idaho",No,905.8248185000001,0.41012767
+19,293487.0,university,Iowa State University,Yes,0.0,0.0
+20,292883.4337,mobile,"Meridian, Idaho",No,1778.37105,0.461553583
+21,292890.3607,web,"Meridian, Idaho",No,0.0,0.0
+22,292897.5965,gender,"Meridian, Idaho",No,568.2338491,0.264567318
+23,292886.6007,mobile,"Meridian, Idaho",No,796.1905312000001,0.28472712899999997
+24,292897.564,gender,"Meridian, Idaho",No,360.18253960000004,0.201590055
+25,292894.7425,mobile,"Meridian, Idaho",No,795.0137927999999,0.39772036200000005
+26,292893.3382,gender,"Meridian, Idaho",No,942.1043666000002,0.372669821
+27,292888.0415,web,"Meridian, Idaho",No,0.0,0.0
+28,293767.0,university,Minnesota State University Mankato,I don't use Tinder,0.0,0.0
+29,292894.2242,mobile,"Meridian, Idaho",No,921.4454391,0.39934547299999995
+30,292897.1528,gender,"Meridian, Idaho",No,490.27231770000003,0.255358555
+31,292886.6728,mobile,"Meridian, Idaho",No,1059.432146,0.30409958600000003
+32,292893.0587,gender,"Meridian, Idaho",No,1133.734198,0.461559106
+33,292888.3879,web,"Meridian, Idaho",No,0.0,0.0
+34,293425.0,university,University of Rochester,I don't use Tinder,0.0,0.0
+35,292892.8169,mobile,"Meridian, Idaho",No,947.1625713,0.381594118
+36,292898.2234,gender,"Meridian, Idaho",No,970.5366295,0.505973338
+37,292888.9807,web,"Meridian, Idaho",No,0.0,0.0
+38,293645.0,university,"Meridian, Idaho",No,0.0,0.0
+39,293133.0,university,University of Mississippi,Yes,2.0,0.667
+40,292900.647,gender,"Meridian, Idaho",No,777.3206426,0.466879401
+41,292901.3552,gender,"Meridian, Idaho",No,437.46303650000004,0.26689097
+42,292882.4593,mobile,"Meridian, Idaho",No,1652.175695,0.428820317
+43,293279.0,university,Columbia University,No,3.0,0.5
+44,292882.5902,mobile,"Meridian, Idaho",No,1728.829439,0.448703199
+45,292892.75899999996,gender,"Meridian, Idaho",No,1127.82637,0.451301347
+46,292881.6548,mobile,"Meridian, Idaho",No,1180.733531,0.306534977
+47,292882.1046,mobile,"Meridian, Idaho",No,796.8403524,0.222329742
+48,292898.2364,gender,"Meridian, Idaho",No,642.9306992,0.329476231
+49,292883.8418,mobile,"Meridian, Idaho",No,1005.1635380000001,0.260994638
+50,292890.4207,web,"Meridian, Idaho",No,0.0,0.0
+51,293351.0,university,Lehigh University,No,2.0,0.667
+52,292883.4329,mobile,"Meridian, Idaho",No,1778.734068,0.461647745
+53,292898.135,gender,"Meridian, Idaho",No,637.2775491,0.32369632800000003
+54,292893.3803,gender,"Meridian, Idaho",No,462.6827149,0.212049257
+55,292890.2458,web,"Meridian, Idaho",No,0.0,0.0
+56,292895.585,gender,"Meridian, Idaho",No,1135.439981,0.524002771
+57,292890.7638,web,"Meridian, Idaho",No,0.0,0.0
+58,293327.0,university,Mississippi State University,No,6.0,0.545
+59,292899.9315,gender,"Meridian, Idaho",No,502.4987233,0.283701586
+60,292887.833,web,"Meridian, Idaho",No,0.0,0.0
+61,292898.7185,mobile,"Meridian, Idaho",No,794.4391496000001,0.452898976
+62,292943.0,university,Indiana University,No,30.0,0.682
+63,292897.307,gender,"Meridian, Idaho",No,571.0321146000001,0.261865545
+64,292894.2715,gender,"Meridian, Idaho",No,504.42386619999996,0.22762252800000002
+65,292894.2287,gender,"Meridian, Idaho",No,477.4062375,0.225532641
+66,293481.0,university,St. Lawrence University,Yes,1.0,1.0
+67,292890.8971,web,"Meridian, Idaho",No,0.0,0.0
+68,293505.0,university,University of Notre Dame,Yes,0.0,0.0
+69,292895.5398,gender,"Meridian, Idaho",No,900.4091315,0.4055222
+70,293211.6949,university,University of Mississippi,Yes,0.14736507599999998,0.14736507599999998
+71,292895.5147,gender,"Meridian, Idaho",No,410.3904293,0.20671330899999998
+72,292883.5498,mobile,"Meridian, Idaho",No,983.7764473,0.255447133
+73,292891.2156,mobile,"Meridian, Idaho",No,795.5235355000001,0.348773647
+74,292887.3321,web,"Meridian, Idaho",No,0.0,0.0
+75,292890.1824,web,"Meridian, Idaho",No,0.0,0.0
+76,292892.2566,gender,"Meridian, Idaho",No,962.5892357000001,0.35652944700000005
+77,292889.7039,web,"Meridian, Idaho",No,0.0,0.0
+78,292888.4195,web,"Meridian, Idaho",No,0.0,0.0
+79,292887.3552,web,"Meridian, Idaho",No,0.0,0.0
+80,292919.0,university,Duke University,No,2.0,0.667
+81,292894.4223,gender,"Meridian, Idaho",No,508.2691313,0.229356667
+82,292884.7935,mobile,"Meridian, Idaho",No,1180.746942,0.306538456
+83,293763.0,university,Minnesota State University Mankato,Yes,1.0,1.0
+84,292882.2642,mobile,"Meridian, Idaho",No,1537.800704,0.399153084
+85,292890.9838,web,"Meridian, Idaho",No,0.0,0.0
+86,292901.8162,gender,"Meridian, Idaho",No,527.4438558999999,0.30395076
+87,293759.6716,university,"Westport, CT",Yes,0.0,0.0
+88,292887.5338,web,"Meridian, Idaho",No,0.0,0.0
+89,292899.9861,gender,"Meridian, Idaho",No,372.0881457,0.22684457100000002
+90,292890.23,mobile,"Meridian, Idaho",No,795.6659896000001,0.335094867
+91,292897.0041,gender,"Meridian, Idaho",No,1046.743269,0.514305264
+92,292883.5008,mobile,"Meridian, Idaho",No,1748.899971,0.45390920700000004
+93,292889.1361,web,"Meridian, Idaho",No,0.0,0.0
+94,292881.9729,mobile,"Meridian, Idaho",No,868.2638576999999,0.225484823
+95,293719.0,university,North Carolina State,I don't use Tinder,0.0,0.0
+96,292884.0579,mobile,"Meridian, Idaho",No,1504.061802,0.390401696
+97,292890.0653,web,"Meridian, Idaho",No,0.0,0.0
+98,292884.7254,mobile,"Meridian, Idaho",No,796.4615722,0.258701125
+99,293734.5788,university,University of Central Oklahoma,No,0.5351020479999999,0.13377551199999999
+100,292887.3183,web,"Meridian, Idaho",No,0.0,0.0
+101,293563.0,university,Castleton State College,I don't use Tinder,0.0,0.0
+102,292888.2749,web,"Meridian, Idaho",No,0.0,0.0
+103,292883.179,mobile,"Meridian, Idaho",No,1890.3342949999999,0.490595244
+104,292882.6953,mobile,"Meridian, Idaho",No,1790.4402850000001,0.464684169
+105,292884.2193,mobile,"Meridian, Idaho",No,796.5347194,0.251677351
+106,292899.7181,mobile,"Meridian, Idaho",No,821.0561623,0.468639581
+107,292896.8333,mobile,"Meridian, Idaho",No,873.7695244999999,0.432253967
+108,292889.0621,web,"Meridian, Idaho",No,0.0,0.0
+109,293533.6643,university,University of Notre Dame,I don't use Tinder,1.48615956,0.708304264
+110,292882.0993,mobile,"Meridian, Idaho",No,877.523306,0.22788659100000003
+111,292900.3686,gender,"Meridian, Idaho",No,390.34826489999995,0.23803008899999997
+112,293637.0,university,Michigan Technological University,Yes,0.0,0.0
+113,292889.8482,web,"Meridian, Idaho",No,0.0,0.0
+114,292887.3872,web,"Meridian, Idaho",No,0.0,0.0
+115,292888.8447,web,"Meridian, Idaho",No,0.0,0.0
+116,292898.1668,mobile,"Meridian, Idaho",No,849.4021702,0.44907363299999997
+117,292890.8005,web,"Meridian, Idaho",No,0.0,0.0
+118,292931.2709,university,University of Pennsylvania,I don't use Tinder,7.561970467,0.29505469300000003
+119,292887.2386,web,"Meridian, Idaho",No,0.0,0.0
+120,292896.2244,gender,"Meridian, Idaho",No,1095.472977,0.519633045
+121,292889.7548,web,"Meridian, Idaho",No,0.0,0.0
+122,292900.73,gender,"Meridian, Idaho",No,537.9429164,0.293813736
+123,292896.8169,mobile,"Meridian, Idaho",No,794.7139856000001,0.42650856200000004
+124,292896.9541,gender,"Meridian, Idaho",No,1049.868213,0.514646925
+125,292887.2338,mobile,"Meridian, Idaho",No,1049.1817449999999,0.31117496699999997
+126,293107.0,university,Miami University (Ohio),I don't use Tinder,1.0,0.5
+127,292895.4864,gender,"Meridian, Idaho",No,411.082227,0.20678390100000002
+128,293512.5922,university,University of Notre Dame,I don't use Tinder,1.925163426,0.444901944
+129,292901.9099,gender,"Meridian, Idaho",No,463.9488214,0.283115247
+130,292883.2125,mobile,"Meridian, Idaho",No,959.0650496,0.24903735100000002
+131,293689.0,university,Brigham Young University,I don't use Tinder,4.0,0.5
+132,292889.9952,web,"Meridian, Idaho",No,0.0,0.0
+133,292894.2955,gender,"Meridian, Idaho",No,923.9746654999999,0.386954519
+134,292888.9395,web,"Meridian, Idaho",No,0.0,0.0
+135,293503.8613,university,University of Wisconsin-La Crosse,I don't use Tinder,1.5717761680000002,0.37130900299999997
+136,292889.6891,web,"Meridian, Idaho",No,0.0,0.0
+137,292883.86600000004,mobile,"Meridian, Idaho",No,1588.406883,0.412279601
+138,292899.2946,gender,"Meridian, Idaho",No,551.8184742000001,0.280416646
+139,292888.5156,web,"Meridian, Idaho",No,0.0,0.0
+140,292900.3495,gender,"Meridian, Idaho",No,837.6573174,0.4914452
+141,292887.214,web,"Meridian, Idaho",No,0.0,0.0
+142,292888.5703,web,"Meridian, Idaho",No,0.0,0.0
+143,292883.3209,mobile,"Meridian, Idaho",No,1827.948941,0.474413377
+144,293115.0,university,Texas Tech University,Yes,3.0,0.231
+145,292900.6111,gender,"Meridian, Idaho",No,401.9284511,0.24512371100000002
+146,293777.0,university,Boston College,No,4.0,0.8
+147,292899.1357,mobile,"Meridian, Idaho",No,794.3788390999999,0.458690129
+148,292893.6515,mobile,"Meridian, Idaho",No,795.1714762,0.382579226
+149,292888.4891,web,"Meridian, Idaho",No,0.0,0.0
+150,292887.2679,mobile,"Meridian, Idaho",No,796.0940962000001,0.293987044
+151,292896.6591,gender,"Meridian, Idaho",No,565.3062278,0.255079279
+152,292883.0682,mobile,"Meridian, Idaho",No,796.7010865,0.235702386
+153,292999.0,university,Tulane University,I don't use Tinder,1.0,0.14300000000000002
+154,292881.0279,mobile,"Meridian, Idaho",No,796.9959623999999,0.207387696
+155,292887.165,web,"Meridian, Idaho",No,0.0,0.0
+156,292900.4839,gender,"Meridian, Idaho",No,829.2532934,0.49052636
+157,293041.1718,university,University of Oregon,Yes,0.434900985,0.028920916
+158,292893.1269,gender,"Meridian, Idaho",No,946.1062836000001,0.369516643
+159,292886.3816,mobile,"Meridian, Idaho",No,1064.754904,0.300425531
+160,292893.2967,mobile,"Meridian, Idaho",No,938.3938515000001,0.38764676200000003
+161,292883.6621,mobile,"Meridian, Idaho",No,991.9991937000001,0.25757999600000003
+162,292891.3902,mobile,"Meridian, Idaho",No,795.4982995,0.351196867
+163,292890.9026,web,"Meridian, Idaho",No,0.0,0.0
+164,292900.5374,mobile,"Meridian, Idaho",No,806.0857477000001,0.47897297
+165,292889.8268,gender,"Meridian, Idaho",No,1070.029033,0.35094786
+166,292894.8695,gender,"Meridian, Idaho",No,913.1040821,0.395519635
+167,292895.5178,gender,"Meridian, Idaho",No,483.0781454,0.238681155
+168,292902.3824,gender,"Meridian, Idaho",No,521.9699339,0.309235926
+169,292885.0,mobile,Mobile respondents,I don't use Tinder,1090.0,0.28300000000000003
+170,292893.4339,gender,"Meridian, Idaho",No,483.06468689999997,0.21798995699999998
+171,292887.3707,web,"Meridian, Idaho",No,0.0,0.0
+172,292898.7636,gender,"Meridian, Idaho",No,556.9515384,0.275460584
+173,292902.0438,gender,"Meridian, Idaho",No,511.7927252,0.305246772
+174,292889.6932,web,"Meridian, Idaho",No,0.0,0.0
+175,293421.0,university,University of Rochester,Yes,1.0,0.33299999999999996
+176,293479.0,university,University of Wisconsin-Whitewater,I don't use Tinder,1.0,0.2
+177,292895.1165,gender,"Meridian, Idaho",No,908.4270339,0.39920476
+178,292889.9922,web,"Meridian, Idaho",No,0.0,0.0
+179,292898.8409,gender,"Meridian, Idaho",No,328.8988152,0.19839783800000002
+180,292889.9193,web,"Meridian, Idaho",No,0.0,0.0
+181,292888.5056,web,"Meridian, Idaho",No,0.0,0.0
+182,292885.7992,mobile,"Meridian, Idaho",No,1075.396725,0.29307997
+183,293692.8982,university,University of Kentucky,I don't use Tinder,0.7791919740000001,0.086490309
+184,292889.2954,web,"Meridian, Idaho",No,0.0,0.0
+185,292897.2769,mobile,"Meridian, Idaho",No,865.6645493999999,0.43784846
+186,292987.0,university,Southern Methodist University,I don't use Tinder,2.0,0.222
+187,292900.7196,gender,"Meridian, Idaho",No,802.3111079,0.48281528799999995
+188,293059.5943,university,University of Oregon,Yes,0.8828599979999999,0.176572
+189,292953.0,university,Northwestern University,Yes,31.0,0.258
+190,292884.4211,mobile,"Meridian, Idaho",No,1344.445534,0.348999524
+191,293543.0,university,Michigan State University,No,1.0,1.0
+192,292892.9214,gender,"Meridian, Idaho",No,1131.0278859999999,0.45686013799999997
+193,292881.3813,mobile,"Meridian, Idaho",No,1020.4242529999999,0.264953049
+194,292888.6537,web,"Meridian, Idaho",No,0.0,0.0
+195,292886.7117,mobile,"Meridian, Idaho",No,796.1744884,0.286267596
+196,293091.0,university,University of Texas,Yes,12.0,0.16399999999999998
+197,292893.1191,gender,"Meridian, Idaho",No,475.037376,0.214369797
+198,292900.7223,gender,"Meridian, Idaho",No,814.3544823,0.488897423
+199,292888.0772,web,"Meridian, Idaho",No,0.0,0.0
+200,292883.3799,mobile,"Meridian, Idaho",No,971.3245652999999,0.252217293
+201,293627.0,university,Whatsgoodly University,No,1.0,1.0
+202,293157.0,university,Yale University,Yes,1.0,1.0
+203,292894.0686,gender,"Meridian, Idaho",No,928.2729639,0.38356781700000003
+204,292884.0698,mobile,"Meridian, Idaho",No,1498.808085,0.389038957
+205,292888.9514,web,"Meridian, Idaho",No,0.0,0.0
+206,293059.0,university,University of Michigan,I don't use Tinder,23.0,0.267
+207,293141.0,university,Baylor University,No,2.0,0.28600000000000003
+208,292977.6358,university,"University of California, Berkeley",No,2.677263305,0.5058113329999999
+209,292889.7918,web,"Meridian, Idaho",No,0.0,0.0
+210,293101.9338,university,University of Virginia,I don't use Tinder,1.077814251,0.089817854
+211,292890.9986,web,"Meridian, Idaho",No,0.0,0.0
+212,292888.4211,web,"Meridian, Idaho",No,0.0,0.0
+213,292887.4948,web,"Meridian, Idaho",No,0.0,0.0
+214,293759.0,university,Penn State University,No,5.0,0.5
+215,292896.7424,gender,"Meridian, Idaho",No,488.46676160000004,0.251172947
+216,293643.0,university,"Meridian, Idaho",Yes,1.0,1.0
+217,293077.4996,university,Wesleyan University,I don't use Tinder,0.31945530899999997,0.31945530899999997
+218,293733.0,university,Randolph-Macon College,Yes,0.0,0.0
+219,293035.0,university,"University of California, Los Angeles",I don't use Tinder,5.0,0.385
+220,293123.0,university,University of North Carolina,No,8.0,0.667
+221,292892.7509,mobile,"Meridian, Idaho",No,795.3016443,0.37008017600000004
+222,292888.9219,mobile,"Meridian, Idaho",No,1018.3348289999999,0.332467177
+223,292893.6501,gender,"Meridian, Idaho",No,1145.3911779999999,0.481799115
+224,293713.0,university,Middlebury College,I don't use Tinder,0.0,0.0
+225,292884.4758,mobile,"Meridian, Idaho",No,1051.600817,0.273039802
+226,292899.21,gender,"Meridian, Idaho",No,335.02906,0.20414345600000003
+227,292890.2721,web,"Meridian, Idaho",No,0.0,0.0
+228,292890.1259,web,"Meridian, Idaho",No,0.0,0.0
+229,292890.0799,web,"Meridian, Idaho",No,0.0,0.0
+230,292889.1362,web,"Meridian, Idaho",No,0.0,0.0
+231,293635.0,university,Case Western Reserve University,I don't use Tinder,12.0,0.387
+232,292892.2768,gender,"Meridian, Idaho",No,962.2073657999999,0.356830329
+233,292895.5503,mobile,"Meridian, Idaho",No,897.2147087000001,0.416070833
+234,292882.6311,mobile,"Meridian, Idaho",No,916.4764872999999,0.237990488
+235,292883.0043,mobile,"Meridian, Idaho",No,943.8115096000001,0.24508080100000001
+236,292889.0736,web,"Meridian, Idaho",No,0.0,0.0
+237,292890.3774,gender,"Meridian, Idaho",No,1080.88222,0.369792244
+238,292881.059,mobile,"Meridian, Idaho",No,831.5813911,0.21596991699999998
+239,292890.2709,web,"Meridian, Idaho",No,0.0,0.0
+240,292882.5032,mobile,"Meridian, Idaho",No,1677.8594190000001,0.435482307
+241,292883.0936,mobile,"Meridian, Idaho",No,1927.857214,0.500328151
+242,292889.4335,web,"Meridian, Idaho",No,0.0,0.0
+243,292890.7654,web,"Meridian, Idaho",No,0.0,0.0
+244,292888.6299,web,"Meridian, Idaho",No,0.0,0.0
+245,292884.0338,mobile,"Meridian, Idaho",No,1019.2237869999999,0.264641665
+246,293341.0,university,University of Georgia,I don't use Tinder,1.0,0.091
+247,293225.0,university,University of Iowa,No,1.0,0.33299999999999996
+248,292898.8164,gender,"Meridian, Idaho",No,556.441909,0.27595264
+249,292931.0,university,Georgetown University,No,1.0,0.25
+250,292888.3816,web,"Meridian, Idaho",No,0.0,0.0
+251,292887.1135,mobile,"Meridian, Idaho",No,1051.379218,0.309658153
+252,293397.1636,university,University of Rochester,I don't use Tinder,1.15984926,0.57992463
+253,292890.7557,web,"Meridian, Idaho",No,0.0,0.0
+254,292901.0305,mobile,"Meridian, Idaho",No,794.1049849,0.48498627
+255,292895.6984,gender,"Meridian, Idaho",No,897.405491,0.40788882
+256,293531.0,university,Gonzaga University,No,1.0,1.0
+257,292890.3883,web,"Meridian, Idaho",No,0.0,0.0
+258,292889.7777,gender,"Meridian, Idaho",No,1069.059818,0.349265011
+259,292890.7473,mobile,"Meridian, Idaho",No,795.591227,0.342273747
+260,292900.4044,gender,"Meridian, Idaho",No,541.0911687000001,0.290774044
+261,293619.0,university,Oregon State University,Yes,0.0,0.0
+262,292888.3317,web,"Meridian, Idaho",No,0.0,0.0
+263,292887.2049,web,"Meridian, Idaho",No,0.0,0.0
+264,292897.962,mobile,"Meridian, Idaho",No,853.1455432,0.446489755
+265,292893.0983,gender,"Meridian, Idaho",No,474.50673830000005,0.21413049
+266,292896.048,gender,"Meridian, Idaho",No,549.7228497000001,0.24805148100000002
+267,292890.8852,web,"Meridian, Idaho",No,0.0,0.0
+268,292881.6008,mobile,"Meridian, Idaho",No,1149.098029,0.29832918199999997
+269,292881.2261,mobile,"Meridian, Idaho",No,929.4819643999999,0.241363923
+270,292888.1597,web,"Meridian, Idaho",No,0.0,0.0
+271,292881.5615,mobile,"Meridian, Idaho",No,838.1324996000001,0.21766918100000002
+272,293731.0,university,Bucknell University,I don't use Tinder,0.0,0.0
+273,292889.0894,web,"Meridian, Idaho",No,0.0,0.0
+274,293331.0,university,University of Missouri,Yes,7.0,0.233
+275,292890.4088,web,"Meridian, Idaho",No,0.0,0.0
+276,292881.0112,mobile,"Meridian, Idaho",No,803.5622745000001,0.20870216
+277,292891.6014,mobile,"Meridian, Idaho",No,795.4677767999999,0.35412773299999994
+278,292902.8651,gender,"Meridian, Idaho",No,517.3039663,0.313740998
+279,292888.2962,web,"Meridian, Idaho",No,0.0,0.0
+280,292884.6784,mobile,"Meridian, Idaho",No,1231.352762,0.31966488
+281,292888.1821,web,"Meridian, Idaho",No,0.0,0.0
+282,293493.0,university,University of Wisconsin-La Crosse,Yes,0.0,0.0
+283,293771.0,university,University of Florida,No,1.0,1.0
+284,293373.0,university,University of Pittsburgh,Yes,0.0,0.0
+285,293497.0,university,University of Wisconsin-La Crosse,I don't use Tinder,1.0,0.33299999999999996
+286,292895.9872,gender,"Meridian, Idaho",No,1110.30023,0.521254158
+287,292890.3278,web,"Meridian, Idaho",No,0.0,0.0
+288,292893.6289,gender,"Meridian, Idaho",No,488.03665430000007,0.22023221699999998
+289,292892.6027,gender,"Meridian, Idaho",No,1124.745637,0.44595227299999995
+290,292899.76300000004,gender,"Meridian, Idaho",No,728.0369624,0.416490706
+291,292888.6274,web,"Meridian, Idaho",No,0.0,0.0
+292,292887.0663,web,"Meridian, Idaho",No,0.0,0.0
+293,293100.2036,university,Wesleyan University,I don't use Tinder,5.582956917000001,0.350218728
+294,292899.6818,gender,"Meridian, Idaho",No,723.5119755,0.41186426200000004
+295,292983.0,university,Southern Methodist University,Yes,3.0,0.33299999999999996
+296,292883.7859,mobile,"Meridian, Idaho",No,1001.0637009999999,0.259931199
+297,293761.0,university,Penn State University,I don't use Tinder,1.0,0.1
+298,292883.355,mobile,"Meridian, Idaho",No,969.5007057,0.25174421
+299,292895.5676,gender,"Meridian, Idaho",No,537.4730375,0.24252705600000002
+300,292881.8907,mobile,"Meridian, Idaho",No,1318.955991,0.342387902
+301,293451.0,university,Loyola University Maryland,Yes,0.0,0.0
+302,292900.4224,gender,"Meridian, Idaho",No,504.658471,0.288708274
+303,293460.5871,university,Washington State University,No,1.591935158,0.704032421
+304,292881.1023,mobile,"Meridian, Idaho",No,856.9348837000001,0.22254625
+305,293545.0,university,Michigan State University,I don't use Tinder,0.0,0.0
+306,292889.3739,web,"Meridian, Idaho",No,0.0,0.0
+307,292902.9149,gender,"Meridian, Idaho",No,515.62549,0.314131818
+308,292897.1832,mobile,"Meridian, Idaho",No,867.3759413999999,0.436667164
+309,292898.5781,gender,"Meridian, Idaho",No,496.5436972,0.269896753
+310,292884.6922,mobile,"Meridian, Idaho",No,1067.451761,0.27715131
+311,292887.9302,web,"Meridian, Idaho",No,0.0,0.0
+312,293675.0,university,Syracuse University,No,4.0,0.444
+313,292901.3525,gender,"Meridian, Idaho",No,531.9253528,0.29962379699999997
+314,292892.5345,gender,"Meridian, Idaho",No,957.3263642999999,0.360676152
+315,292890.0821,web,"Meridian, Idaho",No,0.0,0.0
+316,293747.0,university,University of Tampa,No,1.0,1.0
+317,292898.9073,mobile,"Meridian, Idaho",No,835.8717012,0.458413095
+318,292900.728,gender,"Meridian, Idaho",No,407.5108128,0.248543273
+319,292881.188,university,"University of California, Berkeley",No,791.9070662,0.20709402300000002
+320,292898.9686,gender,"Meridian, Idaho",No,554.9706069,0.277373207
+321,292889.9263,mobile,"Meridian, Idaho",No,999.9819233,0.345135345
+322,292899.3449,gender,"Meridian, Idaho",No,551.3322997,0.280886055
+323,293469.0,university,Sacred Heart University,Yes,0.0,0.0
+324,292883.6661,mobile,"Meridian, Idaho",No,1676.2296820000001,0.435059576
+325,292888.9197,web,"Meridian, Idaho",No,0.0,0.0
+326,292889.5768,web,"Meridian, Idaho",No,0.0,0.0
+327,292898.8057,mobile,"Meridian, Idaho",No,794.4265367,0.45411009399999996
+328,292884.6198,mobile,"Meridian, Idaho",No,1062.149865,0.275776074
+329,292883.8538,mobile,"Meridian, Idaho",No,1593.751067,0.413665806
+330,292881.3635,mobile,"Meridian, Idaho",No,823.6295195,0.21390731600000001
+331,292890.268,web,"Meridian, Idaho",No,0.0,0.0
+332,292897.2023,gender,"Meridian, Idaho",No,1034.357658,0.512951104
+333,292888.2603,web,"Meridian, Idaho",No,0.0,0.0
+334,292902.768,gender,"Meridian, Idaho",No,514.9792793,0.31263378399999997
+335,292882.7687,mobile,"Meridian, Idaho",No,1833.444286,0.47583879100000004
+336,292888.5805,web,"Meridian, Idaho",No,0.0,0.0
+337,292892.8936,gender,"Meridian, Idaho",No,1130.480044,0.455908921
+338,292900.2967,gender,"Meridian, Idaho",No,810.3196301,0.47650523899999997
+339,292899.331,mobile,"Meridian, Idaho",No,794.3506137,0.46140040200000004
+340,293715.0,university,North Carolina State,Yes,1.0,1.0
+341,292889.3799,web,"Meridian, Idaho",No,0.0,0.0
+342,292896.7979,gender,"Meridian, Idaho",No,1059.6336900000001,0.515714617
+343,292881.2215,mobile,"Meridian, Idaho",No,813.2246759,0.21120844800000002
+344,292897.405,gender,"Meridian, Idaho",No,596.576612,0.28208281399999996
+345,293017.0,university,University of Alabama,I don't use Tinder,2.0,0.133
+346,292889.1074,web,"Meridian, Idaho",No,0.0,0.0
+347,293069.0,university,University of Southern California,No,7.0,0.7
+348,292891.8103,mobile,"Meridian, Idaho",No,965.5545142000001,0.368899004
+349,292887.7905,web,"Meridian, Idaho",No,0.0,0.0
+350,292888.1482,web,"Meridian, Idaho",No,0.0,0.0
+351,293571.0,university,Ohio University,Yes,0.0,0.0
+352,292882.61699999997,mobile,"Meridian, Idaho",No,915.4433801000001,0.237722515
+353,292889.9302,web,"Meridian, Idaho",No,0.0,0.0
+354,292884.7154,mobile,"Meridian, Idaho",No,1215.0617960000002,0.315439237
+355,292888.0884,web,"Meridian, Idaho",No,0.0,0.0
+356,293435.0,university,Florida State University,No,0.0,0.0
+357,293363.0,university,Elon University,No,4.0,0.667
+358,292890.1342,web,"Meridian, Idaho",No,0.0,0.0
+359,292889.6732,mobile,"Meridian, Idaho",No,1004.606758,0.341943034
+360,292888.0196,web,"Meridian, Idaho",No,0.0,0.0
+361,293619.7705,university,"University of Wisconsin, Eau Claire",Yes,0.478596326,0.478596326
+362,293527.0,university,Auburn University,I don't use Tinder,0.0,0.0
+363,292896.7387,gender,"Meridian, Idaho",No,1063.334047,0.516119189
+364,292997.0,university,Tulane University,No,3.0,0.429
+365,292887.5449,web,"Meridian, Idaho",No,0.0,0.0
+366,293097.7784,university,University of Southern California,No,19.65591937,0.543028975
+367,293477.0,university,University of Wisconsin-Whitewater,No,2.0,0.4
+368,292890.0817,web,"Meridian, Idaho",No,0.0,0.0
+369,293501.0,university,College of William and Mary,No,7.0,0.43799999999999994
+370,293407.0,university,Skidmore College,I don't use Tinder,0.0,0.0
+371,292901.1943,mobile,Mobile respondents,Yes,794.0813153,0.487259079
+372,292890.1803,web,"Meridian, Idaho",No,0.0,0.0
+373,292881.2789,mobile,"Meridian, Idaho",No,960.4340242999999,0.24939244300000002
+374,292884.8237,university,"University of California, Berkeley",No,693.441717,0.208911845
+375,292898.1405,gender,"Meridian, Idaho",No,494.6183968,0.265433556
+376,293021.0,university,"University of California, Berkeley",No,47.0,0.516
+377,292941.0,university,Indiana University,Yes,9.0,0.205
+378,292890.6347,web,"Meridian, Idaho",No,0.0,0.0
+379,292888.668,web,"Meridian, Idaho",No,0.0,0.0
+380,293446.8148,university,University of Rochester,I don't use Tinder,0.0,0.0
+381,292890.6048,mobile,"Meridian, Idaho",No,795.6118146000001,0.340296876
+382,292900.1342,gender,"Meridian, Idaho",No,543.7025091,0.28825275
+383,292893.2495,gender,"Meridian, Idaho",No,478.36120700000004,0.21586878
+384,292897.1235,gender,"Meridian, Idaho",No,370.9747345,0.202691299
+385,292883.7945,mobile,"Meridian, Idaho",No,1619.811319,0.420425462
+386,292887.6001,web,"Meridian, Idaho",No,0.0,0.0
+387,292882.2001,mobile,"Meridian, Idaho",No,884.9084733999999,0.229802198
+388,292889.9412,web,"Meridian, Idaho",No,0.0,0.0
+389,292888.6047,mobile,"Meridian, Idaho",No,1024.130738,0.32846652600000004
+390,293661.2506,university,University of Kansas,No,3.2289229930000003,0.322892299
+391,292975.0,university,San Diego State University,I don't use Tinder,6.0,0.231
+392,293007.0,university,University of Wisconsin-Madison,Yes,34.0,0.27
+393,292889.1954,web,"Meridian, Idaho",No,0.0,0.0
+394,293117.0,university,Texas Tech University,No,5.0,0.385
+395,292898.4781,gender,"Meridian, Idaho",No,954.6196653,0.5042330829999999
+396,293213.6954,university,University of Mississippi,Yes,1.376902226,0.029328017
+397,292894.3265,mobile,"Meridian, Idaho",No,919.5771710000001,0.40063505299999996
+398,292881.1354,mobile,"Meridian, Idaho",No,806.9187984,0.20957279399999998
+399,292890.717,web,"Meridian, Idaho",No,0.0,0.0
+400,292921.0,university,Duke University,I don't use Tinder,1.0,0.33299999999999996
+401,292898.2362,mobile,"Meridian, Idaho",No,848.1340852,0.44994893399999997
+402,292888.7653,web,"Meridian, Idaho",No,0.0,0.0
+403,293727.0,university,Bucknell University,Yes,1.0,1.0
+404,292899.5351,mobile,"Meridian, Idaho",No,824.4003256,0.46633125799999997
+405,292935.0,university,Harvard University,Yes,1.0,0.33299999999999996
+406,292889.3588,web,"Meridian, Idaho",No,0.0,0.0
+407,292889.3086,web,"Meridian, Idaho",No,0.0,0.0
+408,292894.1246,gender,"Meridian, Idaho",No,500.67760250000003,0.225933036
+409,292890.9415,web,"Meridian, Idaho",No,0.0,0.0
+410,292887.6572,web,"Meridian, Idaho",No,0.0,0.0
+411,292888.6187,web,"Meridian, Idaho",No,0.0,0.0
+412,292894.2403,gender,"Meridian, Idaho",No,503.6268993,0.22726311100000002
+413,293325.0,university,Mississippi State University,Yes,4.0,0.364
+414,292881.5936,mobile,"Meridian, Idaho",No,1144.829094,0.297221881
+415,293621.0,university,Oregon State University,No,1.0,1.0
+416,293345.0,university,Louisiana State University,No,4.0,0.5
+417,292888.3668,web,"Meridian, Idaho",No,0.0,0.0
+418,293195.0,university,University of Illinois,No,29.0,0.617
+419,292883.917,mobile,"Meridian, Idaho",No,1565.975716,0.406461278
+420,293591.0,university,Appalachian State University,No,53.0,0.461
+421,292888.2415,web,"Meridian, Idaho",No,0.0,0.0
+422,292896.9193,gender,"Meridian, Idaho",No,489.2450461,0.252977152
+423,292884.6999,mobile,"Meridian, Idaho",No,1068.0153050000001,0.277297485
+424,293735.0,university,Randolph-Macon College,No,0.0,0.0
+425,292896.8145,gender,"Meridian, Idaho",No,876.268874,0.424542717
+426,293333.0,university,University of Missouri,No,15.0,0.5
+427,292887.8923,web,"Meridian, Idaho",No,0.0,0.0
+428,292883.2255,mobile,"Meridian, Idaho",No,796.6783424,0.237886328
+429,292895.8118,gender,"Meridian, Idaho",No,543.7010745,0.24533577899999998
+430,292895.7325,gender,"Meridian, Idaho",No,405.05485899999996,0.206168863
+431,292900.9546,gender,"Meridian, Idaho",No,799.8389288,0.48731039
+432,292894.9963,gender,"Meridian, Idaho",No,423.0908721,0.208009273
+433,292887.6135,web,"Meridian, Idaho",No,0.0,0.0
+434,292888.2662,web,"Meridian, Idaho",No,0.0,0.0
+435,292889.9128,web,"Meridian, Idaho",No,0.0,0.0
+436,292882.6332,mobile,"Meridian, Idaho",No,916.6327521,0.238031021
+437,292898.9296,gender,"Meridian, Idaho",No,681.5725017000001,0.368984441
+438,292882.6795,mobile,"Meridian, Idaho",No,1781.209893,0.46228993799999996
+439,293507.0,university,University of Notre Dame,No,3.0,0.6
+440,292897.7801,gender,"Meridian, Idaho",No,998.2459937000001,0.509002895
+441,292884.7088,mobile,"Meridian, Idaho",No,1068.6730599999999,0.27746809699999997
+442,292883.8237,mobile,"Meridian, Idaho",No,1003.835538,0.260650174
+443,292890.0917,web,"Meridian, Idaho",No,0.0,0.0
+444,292888.0153,web,"Meridian, Idaho",No,0.0,0.0
+445,292898.5042,mobile,"Meridian, Idaho",No,794.4701175,0.44992535899999997
+446,292891.5001,mobile,"Meridian, Idaho",No,795.482423,0.352721374
+447,292937.0,university,Harvard University,No,2.0,0.667
+448,292894.3792,mobile,"Meridian, Idaho",No,795.0663053999999,0.392677979
+449,292902.2073,gender,"Meridian, Idaho",No,478.1507047,0.29181483
+450,292884.1456,mobile,"Meridian, Idaho",No,796.545371,0.250654566
+451,293357.0,university,Northern Arizona University,No,0.0,0.0
+452,292888.9842,web,"Meridian, Idaho",No,0.0,0.0
+453,292893.8616,gender,"Meridian, Idaho",No,932.1930476,0.38047911700000003
+454,292900.5822,gender,"Meridian, Idaho",No,804.9135453,0.480764784
+455,293197.0,university,University of Illinois,I don't use Tinder,8.0,0.17
+456,292890.4571,gender,"Meridian, Idaho",No,1082.452273,0.372518325
+457,293721.0,university,University of Kentucky,Yes,0.0,0.0
+458,292902.972,gender,"Meridian, Idaho",No,514.6632511,0.31418115399999996
+459,293703.0,university,Centre College,Yes,0.0,0.0
+460,292887.4497,web,"Meridian, Idaho",No,0.0,0.0
+461,292887.3014,web,"Meridian, Idaho",No,0.0,0.0
+462,292896.1821,gender,"Meridian, Idaho",No,553.1445441000001,0.249594598
+463,292888.7045,mobile,"Meridian, Idaho",No,795.8864642000001,0.31392437100000004
+464,292882.5937,mobile,"Meridian, Idaho",No,913.7412377999999,0.237281004
+465,292886.3334,mobile,"Meridian, Idaho",No,796.2291576,0.281018133
+466,292882.7219,mobile,"Meridian, Idaho",No,1806.0067940000001,0.468721899
+467,292882.605,mobile,"Meridian, Idaho",No,914.5690337000001,0.237495722
+468,292889.6548,web,"Meridian, Idaho",No,0.0,0.0
+469,292898.1805,gender,"Meridian, Idaho",No,973.2166490000001,0.506266354
+470,292890.9972,web,"Meridian, Idaho",No,0.0,0.0
+471,293317.0,university,"University of California, Santa Cruz",I don't use Tinder,0.0,0.0
+472,292890.6795,web,"Meridian, Idaho",No,0.0,0.0
+473,292902.2086,gender,"Meridian, Idaho",No,523.6503885,0.307613418
+474,292884.8804,mobile,"Meridian, Idaho",No,1142.555683,0.296632191
+475,292896.4047,gender,"Meridian, Idaho",No,558.8194110000001,0.252153852
+476,293278.2875,university,University of Missouri,No,10.57604315,0.40677089
+477,293253.0,university,UMass Amherst,Yes,3.0,0.25
+478,292887.9512,web,"Meridian, Idaho",No,0.0,0.0
+479,293385.9868,university,University of Buffalo,Yes,0.0,0.0
+480,293537.0,university,Washington State University,No,12.0,0.462
+481,293347.0,university,Louisiana State University,I don't use Tinder,2.0,0.25
+482,292890.4583,gender,"Meridian, Idaho",No,1082.4753660000001,0.37255842200000006
+483,292887.3402,web,"Meridian, Idaho",No,0.0,0.0
+484,292890.6963,web,"Meridian, Idaho",No,0.0,0.0
+485,292889.0275,web,"Meridian, Idaho",No,0.0,0.0
+486,292890.5291,web,"Meridian, Idaho",No,0.0,0.0
+487,293659.0,university,University of Kansas,I don't use Tinder,2.0,0.2
+488,293610.2799,university,University of Dayton,Yes,0.22667399,0.22667399
+489,292900.6205,gender,"Meridian, Idaho",No,820.7200723,0.489593395
+490,292888.1507,web,"Meridian, Idaho",No,0.0,0.0
+491,292881.5252,mobile,"Meridian, Idaho",No,835.4677732000001,0.21697798899999998
+492,293471.0,university,Sacred Heart University,No,1.0,1.0
+493,292896.2061,gender,"Meridian, Idaho",No,1096.621143,0.5197585779999999
+494,293151.0,university,University of Oklahoma,Yes,0.0,0.0
+495,293461.0,university,Marquette University,I don't use Tinder,0.0,0.0
+496,292896.4878,gender,"Meridian, Idaho",No,487.34643719999997,0.248575832
+497,292893.5441,mobile,"Meridian, Idaho",No,795.1870028,0.381088321
+498,292897.3219,gender,"Meridian, Idaho",No,591.9444899,0.277346833
+499,292897.8371,gender,"Meridian, Idaho",No,493.28308430000004,0.262338059
+500,292890.3135,web,"Meridian, Idaho",No,0.0,0.0
+501,292890.1773,web,"Meridian, Idaho",No,0.0,0.0
+502,292893.6611,mobile,"Meridian, Idaho",No,795.1700865,0.382712671
+503,293015.0,university,University of Alabama,No,11.0,0.733
+504,293043.0,university,University of Colorado Boulder,Yes,3.0,0.5
+505,293291.0,university,Tufts University,No,2.0,0.28600000000000003
+506,293273.0,university,Emory University,No,3.0,0.6
+507,293213.0,university,Washington University in St. Louis,No,5.0,0.625
+508,292888.3633,web,"Meridian, Idaho",No,0.0,0.0
+509,292969.0,university,Princeton University,I don't use Tinder,0.0,0.0
+510,292898.1711,gender,"Meridian, Idaho",No,494.7527686000001,0.265745054
+511,293561.0,university,Castleton State College,No,1.0,1.0
+512,293179.0,university,Clemson University,I don't use Tinder,2.0,0.5
+513,292890.2257,web,"Meridian, Idaho",No,0.0,0.0
+514,293316.268,university,University of Georgia,I don't use Tinder,0.46949830299999995,0.042724345999999996
+515,292890.1093,web,"Meridian, Idaho",No,0.0,0.0
+516,292893.1363,gender,"Meridian, Idaho",No,475.4752181,0.214567255
+517,292890.7233,web,"Meridian, Idaho",No,0.0,0.0
+518,292888.7649,web,"Meridian, Idaho",No,0.0,0.0
+519,293081.3539,university,University of Virginia,I don't use Tinder,0.21239049899999998,0.21239049899999998
+520,293162.2631,university,University of Washington,No,9.589468266,0.404561464
+521,292882.9175,mobile,"Meridian, Idaho",No,937.4596730000001,0.243433226
+522,293011.0,university,University of Wisconsin-Madison,I don't use Tinder,21.0,0.16699999999999998
+523,292897.2176,gender,"Meridian, Idaho",No,571.8969777000001,0.261030504
+524,292887.8354,web,"Meridian, Idaho",No,0.0,0.0
+525,292887.667,web,"Meridian, Idaho",No,0.0,0.0
+526,292887.2275,web,"Meridian, Idaho",No,0.0,0.0
+527,292896.5949,mobile,"Meridian, Idaho",No,794.7460735000001,0.42342741100000003
+528,292890.8063,web,"Meridian, Idaho",No,0.0,0.0
+529,292887.4299,web,"Meridian, Idaho",No,0.0,0.0
+530,292889.088,web,"Meridian, Idaho",No,0.0,0.0
+531,292901.2534,gender,"Meridian, Idaho",No,532.8839416999999,0.298698263
+532,293227.0,university,University of Iowa,I don't use Tinder,1.0,0.33299999999999996
+533,293467.0,university,James Madison University,I don't use Tinder,0.0,0.0
+534,292889.7656,web,"Meridian, Idaho",No,0.0,0.0
+535,293052.335,university,University of Miami,Yes,0.277919338,0.055583868
+536,292887.0745,web,"Meridian, Idaho",No,0.0,0.0
+537,293652.4069,university,Whatsgoodly University,I don't use Tinder,1.0,0.606467081
+538,292887.8804,web,"Meridian, Idaho",No,0.0,0.0
+539,292888.7611,web,"Meridian, Idaho",No,0.0,0.0
+540,292900.3695,gender,"Meridian, Idaho",No,541.4285177,0.29044832800000003
+541,293533.5838,university,University of Notre Dame,I don't use Tinder,1.4878377040000001,0.7072973770000001
+542,292902.8134,gender,"Meridian, Idaho",No,517.8036236,0.31325857
+543,292898.6289,gender,"Meridian, Idaho",No,664.8099996000001,0.351846098
+544,292899.0816,gender,"Meridian, Idaho",No,916.8986934000001,0.500108924
+545,292893.7733,gender,"Meridian, Idaho",No,491.7197288,0.221893211
+546,293081.3515,university,Wesleyan University,I don't use Tinder,0.21245784399999998,0.21245784399999998
+547,292889.0817,web,"Meridian, Idaho",No,0.0,0.0
+548,292898.8439,gender,"Meridian, Idaho",No,497.71323650000005,0.272607957
+549,292898.2114,gender,"Meridian, Idaho",No,641.5374194,0.328051711
+550,292886.0236,mobile,"Meridian, Idaho",No,1071.295685,0.29591073
+551,292887.2621,web,"Meridian, Idaho",No,0.0,0.0
+552,292896.6669,gender,"Meridian, Idaho",No,565.5061559999999,0.255169443
+553,292889.4931,web,"Meridian, Idaho",No,0.0,0.0
+554,292889.1945,web,"Meridian, Idaho",No,0.0,0.0
+555,292890.165,web,"Meridian, Idaho",No,0.0,0.0
+556,292890.0399,web,"Meridian, Idaho",No,0.0,0.0
+557,292888.9788,web,"Meridian, Idaho",No,0.0,0.0
+558,292889.7996,web,"Meridian, Idaho",No,0.0,0.0
+559,292888.6619,web,"Meridian, Idaho",No,0.0,0.0
+560,293119.0693,university,University of Mississippi,Yes,0.8391057259999999,0.27984175899999997
+561,292898.4513,gender,"Meridian, Idaho",No,956.2953236999999,0.504416289
+562,292887.0838,web,"Meridian, Idaho",No,0.0,0.0
+563,292889.3143,web,"Meridian, Idaho",No,0.0,0.0
+564,293403.0,university,Skidmore College,Yes,0.0,0.0
+565,292887.8179,web,"Meridian, Idaho",No,0.0,0.0
+566,292881.8325,mobile,"Meridian, Idaho",No,857.9792861,0.22281715300000002
+567,292887.9389,web,"Meridian, Idaho",No,0.0,0.0
+568,293360.7169,university,"University of California, Santa Cruz",Yes,0.0,0.0
+569,292881.3989,mobile,"Meridian, Idaho",No,826.2217535,0.21457970399999998
+570,292898.7039,gender,"Meridian, Idaho",No,668.9908998,0.356120741
+571,293429.0,university,University of St Andrews,No,2.0,0.667
+572,293215.0,university,Washington University in St. Louis,I don't use Tinder,2.0,0.25
+573,292883.3301,mobile,"Meridian, Idaho",No,967.6764922,0.251271036
+574,292889.6681,gender,"Meridian, Idaho",No,1066.9003480000001,0.345515525
+575,293171.0,university,Carnegie Mellon University,No,3.0,0.75
+576,292900.1787,mobile,"Meridian, Idaho",No,812.6392496,0.474449389
+577,292881.6679,mobile,"Meridian, Idaho",No,796.9034657000001,0.216269455
+578,292893.5559,mobile,"Meridian, Idaho",No,795.1852937000001,0.381252435
+579,292901.1164,mobile,"Meridian, Idaho",No,794.0925825,0.48617718
+580,293765.0,university,Minnesota State University Mankato,No,0.0,0.0
+581,293609.6734,university,Whatsgoodly University,I don't use Tinder,24.6950908,0.21473992
+582,293729.0,university,Bucknell University,No,0.0,0.0
+583,292890.7726,web,"Meridian, Idaho",No,0.0,0.0
+584,292883.9922,mobile,"Meridian, Idaho",No,1016.18129,0.263852485
+585,293695.0,university,Arkansas State University,I don't use Tinder,0.0,0.0
+586,292884.1794,mobile,"Meridian, Idaho",No,1450.6583380000002,0.37654960299999995
+587,292890.7374,web,"Meridian, Idaho",No,0.0,0.0
+588,292883.3332,mobile,"Meridian, Idaho",No,967.9093152,0.251331426
+589,293109.1375,university,Vanderbilt University,No,17.66736558,0.441347937
+590,292887.4408,web,"Meridian, Idaho",No,0.0,0.0
+591,293375.0,university,University of Pittsburgh,No,0.0,0.0
+592,292893.0585,mobile,"Meridian, Idaho",No,942.7477428,0.384641471
+593,292889.555,web,"Meridian, Idaho",No,0.0,0.0
+594,293519.0,university,Illinois State,No,1.0,0.5
+595,292890.3146,web,"Meridian, Idaho",No,0.0,0.0
+596,292897.5257,gender,"Meridian, Idaho",No,862.7988306,0.435155991
+597,292888.5577,web,"Meridian, Idaho",No,0.0,0.0
+598,292896.5187,gender,"Meridian, Idaho",No,487.48230470000004,0.248890797
+599,292895.3717,gender,"Meridian, Idaho",No,482.4356249,0.23719167600000002
+600,293525.0,university,Auburn University,No,1.0,1.0
+601,292882.5961,mobile,"Meridian, Idaho",No,913.9144193,0.237325924
+602,293623.0,university,Oregon State University,I don't use Tinder,0.0,0.0
+603,292896.9687,gender,"Meridian, Idaho",No,873.3479648,0.42684415
+604,292890.7935,web,"Meridian, Idaho",No,0.0,0.0
+605,292896.7477,gender,"Meridian, Idaho",No,567.5666437000001,0.25609868199999997
+606,293779.0,university,Boston College,I don't use Tinder,1.0,0.2
+607,292892.8318,gender,"Meridian, Idaho",No,951.6961752999998,0.365112273
+608,293161.0027,university,University of North Carolina,I don't use Tinder,0.000941067,1.3800000000000002e-05
+609,292900.4515,gender,"Meridian, Idaho",No,807.3875548999999,0.47881547
+610,292887.5138,web,"Meridian, Idaho",No,0.0,0.0
+611,292900.8709,gender,"Meridian, Idaho",No,789.8030567000001,0.47964169
+612,292884.5958,mobile,"Meridian, Idaho",No,1060.3956,0.275321043
+613,293367.0,university,Vassar College,Yes,1.0,0.5
+614,292887.0022,web,"Meridian, Idaho",No,0.0,0.0
+615,293265.0,university,Texas Christian University,Yes,8.0,0.308
+616,292888.3525,web,"Meridian, Idaho",No,0.0,0.0
+617,292899.2306,mobile,"Meridian, Idaho",No,794.3651367000001,0.46000586600000004
+618,293061.0,university,University of Oregon,Yes,1.0,0.2
+619,292888.1354,web,"Meridian, Idaho",No,0.0,0.0
+620,292884.3525,mobile,"Meridian, Idaho",No,1374.582858,0.356816714
+621,292959.0,university,Ohio State University,Yes,6.0,0.316
+622,292899.4193,gender,"Meridian, Idaho",No,550.6133541,0.28158021
+623,292888.5435,gender,"Meridian, Idaho",No,1044.733244,0.307026793
+624,292882.7649,mobile,"Meridian, Idaho",No,1831.2599469999998,0.475272205
+625,292884.4692,mobile,"Meridian, Idaho",No,1051.115796,0.272913995
+626,293705.0,university,Centre College,No,3.0,0.75
+627,293085.4757,university,University of Miami,Yes,1.0,0.743903565
+628,292890.5771,web,"Meridian, Idaho",No,0.0,0.0
+629,292891.5922,gender,"Meridian, Idaho",No,1104.8274900000001,0.411368403
+630,292889.9699,web,"Meridian, Idaho",No,0.0,0.0
+631,292890.3568,web,"Meridian, Idaho",No,0.0,0.0
